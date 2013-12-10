@@ -1,0 +1,4 @@
+Kakuro
+======
+
+Japanese Logic Game
