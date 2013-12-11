@@ -7,15 +7,7 @@ Japanese Logic Game
 
 ---------------
 
-# This is a game of the Japanese logic puzzle called KAKURO
-# that I programmed just for fun. I saw the app on itunes,
-# found it challenging so I decided to give it a try. I only
-# put one board in, but hopefully someday I will put
-# in more! (Or write an algorithm that does it for me.)
-# I put in a couple cool features such as solve row/ column and
-# show notes, which are featured in the app. Show notes
-# was probably the toughest because I had to find out all logically
-# possible numbers that could go in a given slot. 
+This is a game of the Japanese logic puzzle called KAKURO that I programmed just for fun. I saw the app on itunes, found it challenging so I decided to give it a try. I only put one board in, but hopefully someday I will put in more! (Or write an algorithm that does it for me.) I put in a couple cool features such as solve row/ column and show notes, which are featured in the app. Show notes was probably the toughest because I had to find out all logically possible numbers that could go in a given slot. 
 
 ![alt tag](http://www.ludygames.com/images/regles-kakuro_grille-kakuro-pleine.jpg)
 
